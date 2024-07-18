@@ -75,14 +75,12 @@
                                 <a href="https://laravel.com/docs" class="underline text-gray-900 dark:text-white">Documentation</a>
                             </div>
                         </div>
-                        <!-- Deskripsi teks dengan margin dan ukuran font lebih kecil -->
                         <div class="ml-12">
                             <div class="mt-2 text-sm text-gray-600 dark:text-gray-400">
                                 Laravel memiliki dokumentasi yang luar biasa, lengkap mencakup setiap aspek dari framework ini...
                             </div>
                         </div>
                     </div>
-                    <!-- Kolom kanan dengan border pada layar kecil dan border kiri pada layar sedang -->
                     <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                         <div class="flex items-center">
                             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500">
