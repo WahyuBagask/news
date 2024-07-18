@@ -12,6 +12,15 @@ Route::get('/about', function () {
 Route::get('/kategori', function () {
     return view ('kategori');
 });
+Route::get('/kriminal', function () {
+    return view ('Kriminal');
+});
+Route::get('/finance', function () {
+    return view ('finance');
+});
+Route::get('/politik', function () {
+    return view ('politik');
+});
 
 Route::get('/halo', function () {
     return 'halo semua';
